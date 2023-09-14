@@ -1,6 +1,6 @@
 # EcomGPT
 
-Inspired by : https://arxiv.org/pdf/2308.06966v2.pdf
+
 
 1.
 ![Advancing-E-commerce-Technology-with-Natural-Language-Processing-and-Deep-Learning (1)_page-0001](https://github.com/Rakib-data-scientist/EcomGPT/assets/137823730/adb4065a-4697-49d3-b66b-99d1cc8b1921)
@@ -26,3 +26,5 @@ Inspired by : https://arxiv.org/pdf/2308.06966v2.pdf
 ![Advancing-E-commerce-Technology-with-Natural-Language-Processing-and-Deep-Learning (1)_page-0011](https://github.com/Rakib-data-scientist/EcomGPT/assets/137823730/007d9ade-3edc-4671-ab16-0278b7f96ce7)
 12.
 ![Advancing-E-commerce-Technology-with-Natural-Language-Processing-and-Deep-Learning (1)_page-0012](https://github.com/Rakib-data-scientist/EcomGPT/assets/137823730/43bc9bcb-3e54-4649-9002-0143a1d3f51d)
+
+* Inspired by : https://arxiv.org/pdf/2308.06966v2.pdf
